@@ -29,7 +29,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  sembast: ^3.0.0
+  get_it: ^6.0.0
+  path_provider: ^2.0.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -38,9 +40,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  sembast: ^3.0.0
-  get_it: ^6.0.0
-  path_provider: ^2.0.0
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
